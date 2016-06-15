@@ -1,5 +1,5 @@
 ## Python For Beginners
-A GFDL workshop for the summer interns. The goal is to provide very basic concepts in Python.
+A GFDL workshop for the summer interns. The goal is to provide very basic concepts in Python, and programming in general.
 
 Outline:
 
