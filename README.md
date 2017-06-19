@@ -3,9 +3,9 @@ A GFDL workshop for the summer interns. The goal is to provide very basic concep
 
 Outline:
 
-* **[Set up a basic anaconda environment on GFDL workstations](http://wiki.gfdl.noaa.gov/index.php/Python101)**: John Krasting
+* **[Set up a basic anaconda environment for this tutorial](https://github.com/anders-dc/Python-basics-GFDL/blob/master/anaconda_python_environment_gfdl.ipynb)**: John Krasting
 
 * **[Python basic syntax (data types, conventions, flow control, functions and  Numpy/Matplotlib)](https://github.com/gustavo-marques/Python-basics-GFDL/blob/master/python_basics.ipynb)**: Gustavo Marques (modified by Anders Damsgaard for 2017)
 
-* **[Reading MOM6 data, making a simple plot, horizontal/vertical regridding with MIDAS](https://github.com/gustavo-marques/Python-basics-GFDL/blob/master/MOM6_intro_and_plotting_example.ipynb)**: Andrew Shao
+* **[Reading MOM6 data, making a simple plot, geospatial plotting, and vertical transects](https://github.com/gustavo-marques/Python-basics-GFDL/blob/master/MOM6_intro_and_plotting_example.ipynb)**: Andrew Shao
 
